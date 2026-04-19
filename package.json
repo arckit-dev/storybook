@@ -58,8 +58,7 @@
   },
   "peerDependencies": {
     "i18next": ">=25",
-    "react": ">=19",
-    "storybook": ">=10"
+    "react": ">=19"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.17.0",
@@ -81,7 +80,6 @@
     "react": "^19.0.0",
     "semantic-release": "^24.0.0",
     "size-limit": "^11.0.0",
-    "storybook": "^10.0.0",
     "tsup": "^8.4.0",
     "typescript": "^5.9.0",
     "vitest": "^4.0.0"

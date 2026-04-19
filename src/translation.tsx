@@ -1,8 +1,8 @@
-import i18next from 'i18next';
-import type { ComponentType } from 'react';
-import { TRANSLATION, type Namespace, type TranslationProps } from '@arckit/i18n';
+import { type Namespace, TRANSLATION, type TranslationProps } from '@arckit/i18n';
 import { I18nProvider } from '@arckit/i18n/client';
 import { provide } from '@arckit/injection';
+import i18next from 'i18next';
+import type { ComponentType } from 'react';
 
 export const translation = <N extends Namespace>(
   lng: string,
