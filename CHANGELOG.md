@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/arckit-dev/storybook/compare/v1.0.1...v1.1.0) (2026-04-20)
+
+
+### Features
+
+* replace @arckit/injection with factory pattern ([194d4c0](https://github.com/arckit-dev/storybook/commit/194d4c06bac89ba9051e19068466df311461cdf3))
+
 ## [1.0.1](https://github.com/arckit-dev/storybook/compare/v1.0.0...v1.0.1) (2026-04-19)
 
 
