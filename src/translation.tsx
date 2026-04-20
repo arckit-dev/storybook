@@ -1,8 +1,8 @@
 /* v8 ignore file */
 import { type Namespace, TRANSLATION, type TranslationProps } from '@arckit/i18n';
 import { I18nProvider } from '@arckit/i18n/client';
-import type { InjectionKey } from 'piqure/src/Providing';
 import i18next from 'i18next';
+import type { InjectionKey } from 'piqure/src/Providing';
 import type { ComponentType } from 'react';
 
 type Provide = <T>(key: InjectionKey<T>, value: T) => void;
